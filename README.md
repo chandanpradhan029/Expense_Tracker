@@ -54,8 +54,7 @@ An advanced, feature-rich expense tracker application built using HTML, CSS, Jav
 
 ## Screenshots
 
-![Expense Tracker Light Mode](./screenshots/light-mode.png)
-![Expense Tracker Dark Mode](./screenshots/dark-mode.png)
+![image](https://github.com/user-attachments/assets/6002f4c5-94c3-45c0-8d1b-2ad738e1b74b)
 
 
 
