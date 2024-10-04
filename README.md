@@ -25,7 +25,7 @@ An advanced, feature-rich expense tracker application built using HTML, CSS, Jav
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/advanced-expense-tracker.git
+    https://github.com/chandanpradhan029/Expense_Tracker.git
     ```
 2. Navigate to the project directory:
     ```bash
