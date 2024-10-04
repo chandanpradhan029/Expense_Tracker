@@ -60,6 +60,6 @@ An advanced, feature-rich expense tracker application built using HTML, CSS, Jav
 
 
 ## Website
-[Visit the Expense Tracker Repository](https://chandanpradhan029.github.io/Expense_Tracker/)
+[Visit the Expense Tracker Website](https://chandanpradhan029.github.io/Expense_Tracker/)
 
 
