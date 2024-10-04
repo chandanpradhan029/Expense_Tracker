@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Expense Tracker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>Expense Tracker</h1>
+            <button id="toggleTheme">Dark Mode</button>
+        </header>
+
+        <section class="form-section">
+            <h2>Add New Expense</h2>
+            <form id="expenseForm">
+                <div class="form-group">
+                    <input type="text" id="expenseName" placeholder="Expense Name" required>
+                </div>
+                <div class="form-group">
+                    <input type="number" id="expenseAmount" placeholder="Amount" required>
+                </div>
+                <div class="form-group">
+                    <select id="expenseCategory" required>
+                        <option value="" disabled selected>Category</option>
+                        <option value="Food">Food</option>
+                        <option value="Travel">Travel</option>
+                        <option value="Shopping">Shopping</option>
+                        <option value="Other">Other</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <input type="date" id="expenseDate" required>
+                </div>
+                <button type="submit" class="btn">Add Expense</button>
+            </form>
+        </section>
+
+        <section class="expense-list">
+            <h2>Your Expenses</h2>
+            <div class="expense-header">
+                <span style="padding-left: 10px;"><strong>Expense Name</strong></span>
+                <span><strong>Price</strong></span>
+                <span><strong>Category</strong></span>
+                <span><strong>Date</strong></span> <!-- Added Date Column -->
+                <span><strong>Action</strong></span>
+            </div>
+            <ul id="expenses"></ul>
+        </section>
+
+        <section class="analytics">
+            <h2>Spending Analytics</h2>
+            <canvas id="expenseChart" style="max-width: 600px; height: 250px;"></canvas>
+            <div id="totalExpenseOverlay"></div>
+            <div class="filter-buttons">
+                <button onclick="displayFilteredExpenses('today')">Today</button>
+                <button onclick="displayFilteredExpenses('weekly')">This Week</button>
+                <button onclick="displayFilteredExpenses('monthly')">This Month</button>
+                
+                
+            </div>
+        </section>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="myjs.js"></script>
+</body>
+</html>
