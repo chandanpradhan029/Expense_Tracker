@@ -1,4 +1,4 @@
-# Advanced Expense Tracker
+# Expense Tracker
 
 An advanced, feature-rich expense tracker application built using HTML, CSS, JavaScript, and Chart.js. This app allows users to add, edit, and delete expenses, and provides filters for daily, weekly, and monthly expense reports. It also includes a graphical representation of expenses by category and theme toggle functionality.
 
@@ -54,7 +54,9 @@ An advanced, feature-rich expense tracker application built using HTML, CSS, Jav
 
 ## Screenshots
 
-![Dashboard]![image](https://github.com/user-attachments/assets/3cc9f144-2b12-4112-92a6-4c380469f2b7)
+### Dashboard Expense Tracker
+![image](https://github.com/user-attachments/assets/3cc9f144-2b12-4112-92a6-4c380469f2b7)
+
 ![image](https://github.com/user-attachments/assets/ab54bfbc-7a30-4d9a-9162-e1f28aacbb56)
 ![image](https://github.com/user-attachments/assets/e5975552-9282-4497-aa0d-133806ec4e6c)
 ![image](https://github.com/user-attachments/assets/5f5f7ac1-fa4f-48b6-990b-231ba41ccc1d)
