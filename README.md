@@ -62,6 +62,8 @@ An advanced, feature-rich expense tracker application built using HTML, CSS, Jav
 
 ### List Of Expense Summary 
 ![image](https://github.com/user-attachments/assets/e5975552-9282-4497-aa0d-133806ec4e6c)
+
+### Update Expense 
 ![image](https://github.com/user-attachments/assets/5f5f7ac1-fa4f-48b6-990b-231ba41ccc1d)
 ![image](https://github.com/user-attachments/assets/bcb3d59d-01b0-439b-8be7-3846444442e0)
 ![image](https://github.com/user-attachments/assets/04fa0b41-36dc-495c-be7a-dd3d3350c715)
