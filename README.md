@@ -54,7 +54,8 @@ An advanced, feature-rich expense tracker application built using HTML, CSS, Jav
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/6002f4c5-94c3-45c0-8d1b-2ad738e1b74b)
+![image](https://github.com/user-attachments/assets/3cc9f144-2b12-4112-92a6-4c380469f2b7)
+
 
 
 
