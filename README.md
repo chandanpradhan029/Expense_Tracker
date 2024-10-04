@@ -29,7 +29,7 @@ An advanced, feature-rich expense tracker application built using HTML, CSS, Jav
     ```
 2. Navigate to the project directory:
     ```bash
-    cd advanced-expense-tracker
+    cd Expense_Tracker-main
     ```
 3. Open `index.html` in your preferred browser.
 
