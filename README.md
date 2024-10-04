@@ -8,8 +8,8 @@ An advanced, feature-rich expense tracker application built using HTML, CSS, Jav
 - **Expense Categories**: Each expense can be categorized (e.g., Food, Travel, Shopping).
 - **Date Selection**: Each expense entry is tied to a specific date, which can be selected when adding or editing expenses.
 - **Expense Summary**: The app shows the total expenses for today, this week, and this month.
-- **Weekly Filter**: Displays expenses from the start of the week to the current date.
-- **Monthly Filter**: Displays expenses from the start of the month to the current date.
+- **Weekly Filter**: Shows weekly expenses
+- **Monthly Filter**: Shows expenses for the last 30 days.
 - **Chart Representation**: Displays expenses by category using a bar chart powered by Chart.js.
 - **Theme Toggle**: Switch between Light Mode and Dark Mode for better user experience.
 - **LocalStorage**: All expenses are stored in the browser’s LocalStorage, ensuring persistence even after the page reloads.
